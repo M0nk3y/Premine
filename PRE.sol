@@ -1,6 +1,4 @@
-# Premine
-Premine Source Code
-pragma solidity ^ 0.4 .9;
+pragma solidity ^ 0.4.9;
 library SafeMath {
     function mul(uint256 a, uint256 b) internal constant returns(uint256) {
         uint256 c = a * b;
